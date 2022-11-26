@@ -3,7 +3,7 @@ import numpy as np
 
 
 def simulation(node_num, k, priors):
-    slot_num = 10 # 초기 슬롯수 설정
+    slot_num = 100 # 초기 슬롯수 설정
     throughputs = []
 
     slot_success_num = [[0 for _ in range(slot_num)] for i in range(node_num)]    # 슬롯 마다 전송 성공 횟수
