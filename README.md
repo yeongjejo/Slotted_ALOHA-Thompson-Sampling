@@ -1,4 +1,4 @@
-톰슨 샘플링을 적용한 강화학습 기반 Slotted ALOHA
+# 톰슨 샘플링을 적용한 강화학습 기반 Slotted ALOHA
 ## paper
 https://drive.google.com/file/d/1Tzp3Y2GARvSuPT9wbUIENUryVeIzPazM/view?usp=share_link
 
